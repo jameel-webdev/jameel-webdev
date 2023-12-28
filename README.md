@@ -8,11 +8,11 @@ An avid **_full-stack developer_** on a perpetual journey to explore the vast ho
 
 <a href="https://www.linkedin.com/in/jameel-webdev/" target="_blank">
   <img src="/logos/Linkedin.png" alt="LinkedIn" width="50" height="50"/>
-</a>&nbsp;&nbsp;
+</a> &nbsp;
 
 <a href="https://aspecta.id/u/jameel-webdev" target="_blank">
   <img src="/logos/Aspecta.png" alt="Aspecta" width="50" height="50"/>
-</a>&nbsp;&nbsp;
+</a> &nbsp;
 
 <a href="https://www.tublian.com/profile/jameel-webdev?ss=true" target="_blank">
   <img src="/logos/Tublian.jpeg" alt="Tublian" width="50" height="50"/>
