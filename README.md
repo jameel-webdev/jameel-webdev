@@ -9,7 +9,7 @@ Jameel Ahmed is a talented software engineer with a passion for JavaScript, Pyth
 
 ### Streetcred:
 
-<a href="https://www.tublian.com/profile/jameel-webdev?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/jameel-webdev?type=with_score"></a>
+<a href="https://www.tublian.com/profile/jameel-webdev?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/jameel-webdev?type=without_score"></a>
 
 ### My Stack:
 
