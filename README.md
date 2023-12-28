@@ -6,8 +6,8 @@ An avid **_full-stack developer_** on a perpetual journey to explore the vast ho
 
 ✉️ **Email** [jameel.webdev@gmail.com](mailto:jameel.webdev@gmail.com)
 
-[<img src="/logos/Linkedin.png" alt="LinkedIn" width="50" height="50"/>](https://www.linkedin.com/in/jameel-webdev/)
+[<img src="/logos/Linkedin.png" alt="LinkedIn" width="50" height="50" style="display: inline;"/>](https://www.linkedin.com/in/jameel-webdev/)
 
-[<img src="/logos/Aspecta.png" alt="Aspecta" width="50" height="50"/>](https://aspecta.id/u/jameel-webdev)
+[<img src="/logos/Aspecta.png" alt="Aspecta" width="50" height="50" style="display: inline;"/>](https://aspecta.id/u/jameel-webdev)
 
-[<img src="/logos/Tublian.jpeg" alt="Tublian" width="55" height="55"/>](https://www.tublian.com/profile/jameel-webdev?ss=true)
+[<img src="/logos/Tublian.jpeg" alt="Tublian" width="50" height="50" style="display: inline;"/>](https://www.tublian.com/profile/jameel-webdev?ss=true)
