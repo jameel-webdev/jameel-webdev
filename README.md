@@ -5,7 +5,7 @@
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
 
-### _**Hello World**_!👋
+### ***Hello World***👋
 
 I'm a versatile **Fullstack Developer** with a passion for creating innovative solutions for web platforms based in India.
 
@@ -57,6 +57,5 @@ I'm a versatile **Fullstack Developer** with a passion for creating innovative s
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameel-webdev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameel.webdev@gmail.com)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jameel-webdev)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jameel.webdev)
 
 #### 🚀 Let's connect and collaborate! <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
