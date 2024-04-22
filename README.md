@@ -16,7 +16,7 @@ I'm a versatile **Fullstack Developer** with a passion for creating innovative s
 
 🔮 Fueled by an insatiable curiosity, I'm always embracing new technologies, with an upcoming focus on web and blockchain development.
 
-🌐 Check out my <a href="https://jameel-webdev.netlify.app/">website</a> to learn more about me.
+🌐 Check out my <a href="https://jameel-webdev.vercel.app/">Portfolio</a> to learn more about me.
 
 🤯 I'm currrently learning Nextjs, Typescript and GraphQL.
 
